@@ -4,3 +4,5 @@ __/
 
 __pycache__/functions.cpython-311.pyc
 experiments/__pycache__/functions.cpython-311.pyc
+
+*.mat
